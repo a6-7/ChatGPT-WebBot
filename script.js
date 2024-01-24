@@ -15,7 +15,7 @@ function sendMessageToAI() {
   };
 
   let requestHeaders = {
-    Authorization: "Bearer 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",
+    Authorization: "Bearer xxxxxxxxxxxxxxxx",
   };
 
   axios
